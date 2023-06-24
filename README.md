@@ -1,4 +1,4 @@
-### "Data-driven Insights for UK Food Hygiene Ratings for Eat Safe, Love"
+#### "Data-driven Insights for UK Food Hygiene Ratings for Eat Safe, Love"
 
 
 # Background
