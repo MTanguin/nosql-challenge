@@ -36,7 +36,7 @@ The UK Food Standards Agency conducts evaluations of establishments across the U
 2. Utilize count_documents, pprint, and Pandas DataFrame to present the results for each question.
 
 
-## ANALYSIS & RESULTS
+## Analysis & Results
 
 Establishments with  hygiene score equal to 20
 
@@ -56,5 +56,5 @@ Establishments in each Local Authority area have a hygiene score of 0
 
 
 
-Source:
+### Source:
 https://courses.bootcampspot.com/courses/2799/assignments/42886?module_item_id=803399
